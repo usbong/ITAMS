@@ -24,4 +24,6 @@ where: Macros = set of computer instructions
 3) Enter in Menu name field: "USBONG"; OK<br/>
 4) Choose in Category, from "All commands..." -> Macros<br/>
 5) Choose customized Macro, e.g. "autoImportSalesReportFromCashier"; Click RIGHT arrow; OK<br/>
-DONE!
+DONE!<br/>
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/LibreOffice/res/libreOfficeCalcUSBONGMacroAtTopMenuPanelV20220325T1359.jpg" width="100%">
