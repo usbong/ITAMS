@@ -6,7 +6,14 @@
 <b>System Type:</b> 32-bit OS<br/>
 
 ### 1.1) Firefox Browser (version 100.0; 32-bit):
-<b>Open Elapsed Time:</b> 41secs
+<b>Default Website Address:</b> https://www.usbong.ph<br/>
+<b>Open Elapsed Time:</b><br/> 
+1) 41secs<br/>
+2) 60+60+37secs<br/>
+3) 60+53secs<br/>
 
 ### 1.2) Executable Application (with [Simple Directmedia Layer (SDL) version 2.0](https://www.libsdl.org/download-2.0.php)):
-<b>Open Elapsed Time:</b> 8secs
+<b>Open Elapsed Time:</b><br/> 
+1) 8secs<br/>
+2) 5secs<br/>
+3) <1sec<br/>
