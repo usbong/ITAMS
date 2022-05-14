@@ -19,6 +19,7 @@
 3) 13secs<br/>
 
 ### 1.2) Executable Application (with [Simple Directmedia Layer (SDL) version 2.0](https://www.libsdl.org/download-2.0.php)):
+<b>Verified Application:</b> https://github.com/usbong/retro/tree/main/output<br/>
 <b>Open Elapsed Time:</b><br/> 
 1) 8secs<br/>
 2) 5secs<br/>
