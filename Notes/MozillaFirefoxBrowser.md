@@ -12,6 +12,12 @@
 2) 60+60+37secs<br/>
 3) 60+53secs<br/>
 
+<b>Default Website Address (local network):</b> http://192.168.1.110/usbong_kms/index.php/report/viewWebAddressList<br/>
+<b>Open Elapsed Time:</b><br/> 
+1) 15secs<br/>
+2) 14secs<br/>
+3) 13secs<br/>
+
 ### 1.2) Executable Application (with [Simple Directmedia Layer (SDL) version 2.0](https://www.libsdl.org/download-2.0.php)):
 <b>Open Elapsed Time:</b><br/> 
 1) 8secs<br/>
