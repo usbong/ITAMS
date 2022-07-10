@@ -9,7 +9,7 @@ Disconnect POWER and DATA Cables from the Harddisk Storage; Reconnect. Press POW
 
 <img src="https://github.com/usbong/ITAMS/blob/main/Notes/res/computerMonitorResolution1280x1024Notification20220710T1257.jpg" width="60%">
 
---> <b>Additional Note:</b> added: Inno3D Graphics Acceleration Card (1GB) to Motherboard (Amd64 System Processor)
+--> <b>Additional Note:</b> added: recycled NVIDIA Inno3D Graphics Acceleration Card (1GB) to Motherboard (Amd64 System Processor)
 
 <img src="https://github.com/usbong/ITAMS/blob/main/Notes/res/am64CPUMotherboard20220710T1332.jpg" width="30%">
 
