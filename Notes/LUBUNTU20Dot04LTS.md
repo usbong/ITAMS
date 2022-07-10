@@ -6,7 +6,17 @@
 Disconnect POWER and DATA Cables from the Harddisk Storage; Reconnect. Press POWER ON.
 
 ## 2) Problem: No "1280x1024" Resolution in Monitor Settings
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/res/computerMonitorResolution1280x1024Notification20220710T1257.jpg" width="60%">
+
 --> <b>Additional Note:</b> added: Inno3D Graphics Acceleration Card (1GB) to Motherboard (Amd64 System Processor)
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/res/am64CPUMotherboard20220710T1332.jpg" width="30%">
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/res/NVIDAInno3DAcceCard20220710T1333.jpg" width="30%">
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/res/NVIDAInno3DAcceCardInsertedToMotherboard20220710T1337.jpg" width="30%">
+
 
 ### Solution: 
 #### Step 1: Execute the following COMMANDS in Terminal Window
@@ -37,6 +47,9 @@ COMMAND#4: <b>sudo featherpad /usr/share/X11/xorg.conf.d/10-monitor.conf</b><br/
 > EndSection
 
 #### Step 3: <b>Reboot Operating System</b>
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/res/computerMonitorResolutionSettingInLinuxUbuntuSoftwareOK20220710T1354.jpg" width="60%">
+
 
 DONE!
 
