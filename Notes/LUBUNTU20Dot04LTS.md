@@ -84,11 +84,11 @@ where: AI :  may Taong Pinabilis ang Kaalaman at Kakayahan
 
 
 
-## 2) Problem: No Japanese Language (日本語) Input
+## 3) Problem: No Japanese Language (日本語) Input
 
 ### Solution:
 
-#### Part2.1) Execute the following COMMANDS in Terminal Window:<br/>
+#### Part3.1) Execute the following COMMANDS in Terminal Window:<br/>
 
 <b>
 sudo apt-get install gnome-control-center <br/>
@@ -96,7 +96,7 @@ sudo apt-get install gnome-control-center <br/>
 sudo gnome-control-center region
 </b> 
 
-#### Part2.2) Region & Language -> Managed Installed Languages<br/>
+#### Part3.2) Region & Language -> Managed Installed Languages<br/>
 --> Step1) Install/Remove Languages -> Japanese<br/>
 --> Step2) Keyboard input method system: `fcitx`<br/>
 --> Step3) Close<br/>
@@ -106,7 +106,7 @@ sudo gnome-control-center region
 <br/>
 --> Step6) Logout -> Login<br/>
 
-#### Part2.3) Click KEYBOARD icon @BOTTOM-RIGHT of screen to change it into GEAR icon;<br/>
+#### Part3.3) Click KEYBOARD icon @BOTTOM-RIGHT of screen to change it into GEAR icon;<br/>
 --> notes: OUTPUT is equal with CTRL + SPACEBAR INPUT COMMAND<br/>
 
 よくできました。
