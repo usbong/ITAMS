@@ -81,3 +81,45 @@ where: AI :  may Taong Pinabilis ang Kaalaman at Kakayahan
 ### Reference
 1) https://askubuntu.com/questions/1365396/ubuntu-21-04-no-proprietary-nvidia-driver-for-geforce-210-graphics-card; last accessed: 20220717<br/>
 --> answer by: N0rbert, 20210923T1837
+
+
+
+## 2) Problem: No Japanese Language (日本語) Input
+
+### Solution:
+
+#### Part2.1) Execute the following COMMANDS in Terminal Window:<br/>
+
+<b>
+sudo apt-get install gnome-control-center <br/>
+
+sudo gnome-control-center region
+</b> 
+
+#### Part2.2) Region & Language -> Managed Installed Languages<br/>
+--> Step1) Install/Remove Languages -> Japanese<br/>
+--> Step2) Keyboard input method system: `fcitx`<br/>
+--> Step3) Close<br/>
+<br/>
+--> Step4) Input Sources -> + -> Add -> Japanese<br/>
+--> Step5) Close via "X" Mark<br/>
+<br/>
+--> Step6) Logout -> Login<br/>
+
+#### Part2.3) Click KEYBOARD icon @BOTTOM-RIGHT of screen to change it into GEAR icon;<br/>
+--> notes: OUTPUT is equal with CTRL + SPACEBAR INPUT COMMAND<br/>
+
+よくできました。
+
+--> reminder: KEYBOARD icon causes INPUT to be the default, e.g. Filipino 
+
+DONE!
+
+### References
+1) https://askubuntu.com/questions/1266905/why-is-region-and-language-missing-from-the-gnome-control-center; last accessed: 20230103<br/>
+--> answer by: rubicks, 20200813T2035<br/>
+--> question by: rubicks, 20200813T1537<br/>
+
+2) https://askubuntu.com/questions/316221/resolution-hd-1920x1280-with-intel-graphics-in-ubuntu-12-04-lts; last accessed: 20230103
+
+
