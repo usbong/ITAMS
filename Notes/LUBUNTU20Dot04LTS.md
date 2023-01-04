@@ -5,6 +5,14 @@
 ### Solution: 
 Disconnect POWER and DATA Cables from the Harddisk Storage; Reconnect. Press POWER ON.
 
+#### 1.1) RELATED PROBLEM
+
+### Reference
+
+https://www.quora.com/My-PC-turns-on-but-I-see-no-display-and-the-keyboard-light-doesn-t-turn-on-The-only-thing-on-is-the-LED-lights-to-the-PC-and-the-mouse-How-do-I-fix-this; last accessed: 20220104;
+answer by: Hisham Ulhaq
+
+
 ## 2) Problem: No "1280x1024" Resolution in Monitor Settings
 
 <img src="https://github.com/usbong/ITAMS/blob/main/Notes/res/computerMonitorResolution1280x1024Notification20220710T1257.jpg" width="60%">
