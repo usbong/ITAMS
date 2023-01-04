@@ -97,10 +97,13 @@ sudo gnome-control-center region
 </b> 
 
 #### Part3.2) Region & Language -> Managed Installed Languages<br/>
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/res/lubuntu20Dot04JapaneseLanguageSupportV20230104T0951.jpg" width="60%"><br/>
+
 --> Step1) Install/Remove Languages -> Japanese<br/>
 --> Step2) Keyboard input method system: `fcitx`<br/>
 --> Step3) Close<br/>
-<br/>
+
 --> Step4) Input Sources -> + -> Add -> Japanese<br/>
 --> Step5) Close via "X" Mark<br/>
 <br/>
