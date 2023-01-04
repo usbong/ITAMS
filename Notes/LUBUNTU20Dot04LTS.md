@@ -5,7 +5,25 @@
 ### Solution: 
 Disconnect POWER and DATA Cables from the Harddisk Storage; Reconnect. Press POWER ON.
 
-#### 1.1) RELATED PROBLEM
+### Related Problem (RB)
+
+--> <b>Additional Notes:</b> Computer Mouse receives electricity via Light-Emitting Diode (LED), albeit Keyboard does NOT;<br/> 
+--> No excess SOUND heard due to Random Access Memory (RAM) Card NOT correctly connected
+
+### RB.Solution:
+
+1) Remove Complementary Metal Oxide Semiconductor (CMOS) Battery from Motherboard. <br/>
+--> verify: if as expected, CMOS Battery has low remaining stored electricity. 
+
+2) Remove RAM Card/s.
+
+3) Reconnect Motherboard's Power Supply Unit (PSU) to Electrical Outlet.<br/>
+--> Beeping sound shall be heard due to the removed RAM Cards.<br/>
+--> After 10seconds, put a new CMOS Battery.<br/>
+--> Reconnect the RAM Card/s to the Motherboard.<br/>
+--> Press POWER ON. 
+
+Done!
 
 ### Reference
 
