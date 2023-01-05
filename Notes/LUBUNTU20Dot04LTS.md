@@ -18,9 +18,15 @@ Disconnect POWER and DATA Cables from the Harddisk Storage; Reconnect. Press POW
 2) Remove RAM Card/s.
 
 3) Reconnect Motherboard's Power Supply Unit (PSU) to Electrical Outlet.<br/>
+--> Press POWER ON. <br/>
 --> Beeping sound shall be heard due to the removed RAM Cards.<br/>
---> After 10seconds, put a new CMOS Battery.<br/>
+--> reminder: We need to execute this ACTION to solve the problem.<br/>
+--> After 10seconds, press POWER OFF.<br/>
+--> Disconnect PSU to Electrical Outlet.
+
+4) Put a new CMOS Battery.<br/>
 --> Reconnect the RAM Card/s to the Motherboard.<br/>
+--> Reconnect PSU to Electrical Outlet.<br/>
 --> Press POWER ON. 
 
 Done!
