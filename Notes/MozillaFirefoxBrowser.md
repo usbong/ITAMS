@@ -25,7 +25,7 @@
 2) 5secs<br/>
 3) <1sec<br/>
 
-## 2) LUBUNTU Operating System (OS)
+## 2) LUBUNTU Operating System (OS); version: 20.04LTS
 <b>Processor:</b> Intel(R) Core(TM)2 Duo CPU E7300  @ 2.66GHz<br/>
 <b>Installed memory (RAM):</b> 2.00GB<br/>
 <b>System Type:</b> 64-bit OS<br/>
