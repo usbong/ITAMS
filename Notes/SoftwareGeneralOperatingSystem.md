@@ -9,7 +9,7 @@ Installed Operating System, e.g. Windows, Linux Ubuntu,<br/>
 ### Reminder based on understanding
 
 Change of Motherboard and/or Harddisk Storage (with installed OS),<br/>
---> causes: reinstallation of OS (with new OS license if applicable)
+--> causes: re-installation of OS (with new OS license if applicable)
 
 #### Additional Notes: Windows OS
 
