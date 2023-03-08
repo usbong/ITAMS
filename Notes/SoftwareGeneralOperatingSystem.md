@@ -11,7 +11,7 @@ Installed Operating System, e.g. Windows, Linux Ubuntu,<br/>
 Change of Motherboard and/or Harddisk Storage (with installed OS),<br/>
 --> causes: reinstallation of OS (with new OS license if applicable)
 
-#### Additional Notes
+#### Additional Notes: Windows OS
 
 > As long as the license is retail you can move it wherever you want.
 
