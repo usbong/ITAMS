@@ -141,7 +141,12 @@ sudo gnome-control-center region
 <br/>
 --> Step6) Logout -> Login<br/>
 
-#### Part3.3) Click KEYBOARD icon @BOTTOM-RIGHT of screen to change it into GEAR icon;<br/>
+
+#### Part3.3) Add "Mozc" in INPUT METHOD SETTINGS<br/>
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/res/lubuntu20Dot04JapaneseLanguageSupportV20230330T1304.jpg" width="100%"><br/>
+
+#### Part3.4) Click KEYBOARD icon @BOTTOM-RIGHT of screen to change it into GEAR icon;<br/>
 --> notes: OUTPUT is equal with CTRL + SPACEBAR INPUT COMMAND<br/>
 
 よくできました。
