@@ -16,11 +16,11 @@
 
 <img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/20231019/winscpWinToLinuxLoginV20231019T1523.png" width="80%">
 
-3) Advanced Site Settings
+3) Edited -> Advanced -> Advanced Site Settings
 
 <img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/20231019/winscpWinToLinuxAdvancedSiteSettingsV20231019.png" width="80%">
 
-3) Warning
+3) Login -> Warning
 
 <img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/20231019/winscpWinToLinuxConnectAfterInstallingOpenSSHServerInLinuxV20231019T1433.png" width="80%">
 
