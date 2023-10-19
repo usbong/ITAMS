@@ -40,7 +40,12 @@ DONE!
 
 1) Warning
 
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/20231019/puttyWinToLinuxConnectAfterInstallingOpenSSHServerInLinuxV20231019T1535.png" width="80%">
+
 
 2) Login
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/20231019/puttyWinToLinuxLoginV20231019T1536.png" width="100%">
+
 
 DONE!
