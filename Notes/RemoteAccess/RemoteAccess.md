@@ -1,6 +1,6 @@
 # Notes: Remote Access
 
-## Windows to Linux Server
+# Windows to Linux Server
 
 ## WinSCP
 
@@ -55,3 +55,28 @@ DONE!
 
 
 DONE!
+
+# Windows to Windows Server
+
+## Remote Desktop Connection
+
+### Prerequisites
+
+1) Turn ON
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/Windows/remoteDesktopWinToWinRemoteDesktopOnV20231020T1402.png" width="80%">
+
+### Steps
+
+1) Login
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/Windows/remoteDesktopWinToWinLoginV20231020T1432.png" width="80%">
+
+2) Warning
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/Windows/remoteDesktopWinToWinWarningV20231020T1401.png" width="80%">
+
+
+3) Example Output
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/Windows/remoteDesktopWinToWinRemoteDesktopOutputV20231020T1431.png" width="100%">
