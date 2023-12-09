@@ -163,3 +163,14 @@ DONE!
 2) https://askubuntu.com/questions/316221/resolution-hd-1920x1280-with-intel-graphics-in-ubuntu-12-04-lts; last accessed: 20230103
 
 
+## 4) How to restart WiFi network connection of Ubuntu Linux machine?
+
+Enter this COMMAND in the Terminal Window:
+
+`sudo service NetworkManager restart`
+
+reminder: "NetworkManager" with CAPITAL LETTERS 
+
+### REFERENCE
+
+https://askubuntu.com/questions/271387/how-to-restart-wifi-connection; last accessed: 20231209
