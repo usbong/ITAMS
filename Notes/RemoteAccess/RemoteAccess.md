@@ -89,5 +89,12 @@ DONE!
 
 <img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/Linux/usbongRemoteAccessSSHLinuxToLinuxInstalOpenSSHServerInTargetV20231209T0921.jpg" width="100%">
 
-3) OpenSSH Client
+2) OpenSSH Client
 
+### Step
+
+1) Login (to Linux Server with IP Address 192.168.10.99)
+
+Enter the following COMMAND in the Terminal Window:
+
+`ssh 192.168.10.99`
