@@ -87,7 +87,7 @@ DONE!
 
 1) OpenSSH Server in target Linux Server
 
-<img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/Linux/usbongRemoteAccessSSHLinuxToLinuxInstalOpenSSHServerInTargetV20231209T0921.jpg" width="100%">
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/Linux/usbongRemoteAccessSSHLinuxToLinuxInstallOpenSSHServerInTargetV20231209T0921.jpg" width="100%">
 
 2) OpenSSH Client
 
@@ -98,3 +98,5 @@ DONE!
 Enter the following COMMAND in the Terminal Window:
 
 `ssh 192.168.10.99`
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/Linux/usbongRemoteAccessSSHLinuxToLinuxClientToTargetServerV20231209T1052.jpg" width="100%">
