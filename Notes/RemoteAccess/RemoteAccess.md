@@ -80,3 +80,14 @@ DONE!
 3) Example Output
 
 <img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/Windows/remoteDesktopWinToWinRemoteDesktopOutputV20231020T1431.png" width="100%">
+
+# Linux to Linux Server
+
+### Prerequisites
+
+1) OpenSSH Server in target Linux Server
+
+<img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/Linux/usbongRemoteAccessSSHLinuxToLinuxInstalOpenSSHServerInTargetV20231209T0921.jpg" width="100%">
+
+3) OpenSSH Client
+
