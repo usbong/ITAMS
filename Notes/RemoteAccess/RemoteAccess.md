@@ -1,6 +1,15 @@
 # Notes: Remote Access
 
-# Windows to Linux Server
+## CONTENTS
+
+### 1) Windows to Linux Server
+
+### 2) Windows to Windows Server
+
+### 3) Linux to Linux Server
+
+
+# 1) Windows to Linux Server
 
 ## WinSCP
 
@@ -56,7 +65,7 @@ DONE!
 
 DONE!
 
-# Windows to Windows Server
+# 2) Windows to Windows Server
 
 ## Remote Desktop Connection
 
@@ -81,7 +90,7 @@ DONE!
 
 <img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/Windows/remoteDesktopWinToWinRemoteDesktopOutputV20231020T1431.png" width="100%">
 
-# Linux to Linux Server
+# 3) Linux to Linux Server
 
 ### Prerequisites
 
