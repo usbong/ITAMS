@@ -109,3 +109,15 @@ Enter the following COMMAND in the Terminal Window:
 `ssh 192.168.10.99`
 
 <img src="https://github.com/usbong/ITAMS/blob/main/Notes/RemoteAccess/Linux/usbongRemoteAccessSSHLinuxToLinuxClientToTargetServerV20231209T1052.jpg" width="100%">
+
+If `login_name` in server is different from client's, add `-llogin_name`. 
+
+`sudo ssh -llogin_name 192.168.10.99`
+
+#### OUTPUT
+
+`login_name@192.168.10.99's password:`
+
+After entering the correct password, you should now be able to login.
+
+Done!
